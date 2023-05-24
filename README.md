@@ -1,6 +1,8 @@
 # Nirmaldeep Eye Hospital Dashboard App.
+## v1.1.1
+* Change Method used to search Patients
+
 ## v1.1.0
-### Notes
 * Add Abiility to Delete Patients
 * Fix patientHistory not updating Bug
 * Add Followup Edit Feature
