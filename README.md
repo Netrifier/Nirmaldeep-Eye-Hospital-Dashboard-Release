@@ -1,4 +1,7 @@
 # Nirmaldeep Eye Hospital Dashboard App.
+## v1.1.3
+* Fix VA displaying SPH bug
+
 ## v1.1.2
 * Change Method used to display searched Patients
 
